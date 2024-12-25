@@ -11,6 +11,8 @@ By enabling an open, interdisciplinary, and consistent comparative approach to s
 
 ## Publications
 
+- Pierluigi Crescenzi, Giorgio Gambosi, Lucia Nasti, Emanuele Natale, Aurora Rossi. [*A sensitivity analysis of the Earth for all model: Getting the giant leap scenario with fewer policies.*](https://onlinelibrary.wiley.com/doi/10.1111/jiec.13582?af=R) Journal of Industrial Ecology, 2024. 
+
 - Pierluigi Crescenzi, Emanuele Natale, Aurora Rossi, Paulo Serafim. *WorldDynamics.jl: A Julia Package for Developing and Simulating Integrated Assessment Models.*
   Journal of Open Source Software, 9(95), 5772. 2024. [![DOI](https://joss.theoj.org/papers/10.21105/joss.05772/status.svg)](https://doi.org/10.21105/joss.05772)
 
